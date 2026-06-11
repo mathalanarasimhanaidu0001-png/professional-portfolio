@@ -14,7 +14,7 @@ export default function Navbar() {
           <a href="#roadmap" className="hover:text-teal-400 transition-colors">Journey</a>
           
           {/* Changed "#stats" to "#tracker" (or whatever ID your stats panel wrapper uses) */}
-          <a href="#roadmap" className="hover:text-teal-400 transition-colors">Stats</a>
+          <a href="#stats" className="hover:text-teal-400 transition-colors">Stats</a>
           
           <a href="#projects" className="hover:text-teal-400 transition-colors">Projects</a>
           <a href="#resume" className="hover:text-teal-400 transition-colors">Resume</a>
