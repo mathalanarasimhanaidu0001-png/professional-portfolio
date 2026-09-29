@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const skillsMatrix = [
   { domain: "Languages", items: ["C++ (STL Engine)", "Python", "Data Structures & Algorithms"] },
-  { domain: "Web & Core Architecture", items: ["React.js", "Tailwind CSS", "JavaScript", "Node.js"] },
+  { domain: "Web & Core Architecture", items: ["HTML", "Tailwind CSS", "JavaScript", "react"] },
   { domain: "AI / ML & Databases", items: ["Generative AI", "Gemini API", "Hugging Face", "MySQL"] }
 ];
 
@@ -18,7 +18,7 @@ const projectShowcase = [
     title: "3D Weather Analytics Dashboard",
     description: "A real-time predictive forecasting system that integrates 3D visual environments with predictive API data layers and contextual AI-generated lifestyle advice.",
     tech: ["React", "Three.js", "Tailwind CSS", "Gemini API"],
-    link: "#"
+    link: "https://ai-weather-intelligence-dashboard.vercel.app/"
   }
 ];
 
